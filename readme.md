@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript WordPress**
 
 - 📫 How to reach me **fsustek60@gmail.com**
 
