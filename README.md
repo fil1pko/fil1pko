@@ -1,17 +1,21 @@
 <h1 align="center">Hey, I'm RU3Y ♦️</h1>
 <h3 align="center">Web Designer and Frontend Developer | Embracing Graphic & Logo Designing from Slovakia.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fil1pko&label=Profile%20views&color=0e75b6&style=flat" alt="fil1pko" /> </p>
 
-- I’m currently working on [ORION-trust website 🌙](https://filip.flexi.sk/)
+- I’m currently working on **my illustrated parallax portfolio**
 
-- 🌱 I’m currently learning **Adobe Illustrator and Three.js library**
+- 🌱 I’m currently learning **Adobe Illustrator, Three.js library, Blender and GreenSock**
 
-- My next project is **my illustrated parallax portfolio**
+- My next project is **first serious fullstack project**
 
 - 💬 Ask me about **Figma, Vue.js**
 
 - ✉️ Where to hit me **fsustek60@gmail.com**
 
+- ORION-trust website 🌙 [https://oriontrust.eu/](https://oriontrust.eu/)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -20,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fil1pko&show_icons=true&locale=en&layout=compact" alt="fil1pko" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fil1pko&show_icons=true&locale=en" alt="fil1pko" /></p>
