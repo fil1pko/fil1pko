@@ -1,7 +1,6 @@
 <h1 align="center">Hey, I'm RU3Y ♦️</h1>
 <h3 align="center">Web Designer and Frontend Developer | Embracing Graphic & Logo Designing from Slovakia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fil1pko&label=Profile%20views&color=0e75b6&style=flat" alt="fil1pko" /> </p>
 
 - I’m currently working on **Nevia,SE**
 
