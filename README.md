@@ -2,17 +2,19 @@
 <h3 align="center">Web Designer and Frontend Developer | Embracing Graphic & Logo Designing from Slovakia.</h3>
 
 
-- I’m currently working on **Nevia,SE**
+- I’m currently working on **TaskEase**
 
-- 🌱 I’m currently learning **Adobe Illustrator, Three.js library, Blender, GreenSock and React**
+- 🌱 I’m currently learning **Logo makink and graphic design**
 
-- My next project is **Synektika s.r.o**
+- My next project is **Synektika s.r.o website**
 
 - 💬 Ask me about **Figma, Vue.js**
 
 - ✉️ Where to hit me **fsustek60@gmail.com**
 
 - ORION-trust website 🌙 [https://oriontrust.eu/](https://oriontrust.eu/)
+- Nevia, SE website [https://www.neviase.eu/](https://www.neviase.eu/)
+- Dezertny raj [https://dezertnyraj.flexi.sk/](https://dezertnyraj.flexi.sk/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
